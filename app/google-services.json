@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "640918789496",
+    "firebase_url": "https://dotaapp-4cee4.firebaseio.com",
+    "project_id": "dotaapp-4cee4",
+    "storage_bucket": "dotaapp-4cee4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640918789496:android:560f5dda6ae3f6e8",
+        "android_client_info": {
+          "package_name": "com.example.lorda.dotaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640918789496-h17k96kif3ni0v04cgurfht59scvk7qu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lorda.dotaapp",
+            "certificate_hash": "3e5bb1bbedc5e1d06bf45a7360c2e34d951b6b21"
+          }
+        },
+        {
+          "client_id": "640918789496-j526k083c7pm10innu1otref0iefjr65.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSyjnHMNem1n70cSQyBIW7ik88f4BMmyE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640918789496-j526k083c7pm10innu1otref0iefjr65.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
